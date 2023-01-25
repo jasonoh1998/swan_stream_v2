@@ -1,21 +1,41 @@
-### Swan Stream Project
+# Swan Stream Project V2 #
+## Project Overview ##
+This was the version 2 of the Swan Stream Project I worked on it previously. This project was to create a streaming website similar to Netflix. The design we choosed to benchmark was Watcha, which is the South Korean streaming service.
 
-## Description
-Best Streaming Website at The Lowest Cost
-저렴하고 고퀄리티의 스트리밍 웹사이트!
-
-## Syntax Rules
-java
-javascript
-    ; 마직막에 사용
-    function () 사용
-html
-css
-
-# Members
-오철민(Jason Oh)
-박재규
-박찬호
-보영
-현욱
-홍헌
+## Requirements/Dependencies ##
+* Bootstrap 5.0.2
+* Oracle Database 21c
+* Java = 11
+* STS >= 3.9
+    - spring-context 5.3.20
+    - spring-jdbc 5.3.20
+    - spring-webmvc 5.3.23
+    
+    connection pool
+    
+    - commons-dbcp2 2.9.0
+    - commons-collections4 4.4
+    - commons-pool2 2.11.1
+    
+    oracle database
+    
+    - ojdbc11 21.1.0.0
+    
+    mybatis
+    
+    - mybatis 3.5.10
+    - mybatis-spring 2.0.6
+    
+    jstl (* used javax not jarkarta *)
+    
+    - jstl 1.2
+    
+    json
+    
+    - json-lib 2.4
+    - jackson-core 2.14.0
+    - jackson-databind 2.14
+    
+    lombok
+    
+    - lombok 1.18.24
