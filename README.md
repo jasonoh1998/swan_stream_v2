@@ -1,6 +1,6 @@
 # Swan Stream Project V2 #
 ## Project Overview ##
-This was the version 2 of the Swan Stream Project I worked on it previously. This project was to create a streaming website similar to Netflix. The design we choosed to benchmark was Watcha, which is the South Korean streaming service.
+This is version 2 of the Swan Stream Project I worked on previously. We made this project to create a streaming website similar to Netflix. The design we chose to benchmark was Watcha, which is the South Korean streaming service.
 
 ## Requirements/Dependencies ##
 * Bootstrap 5.0.2
