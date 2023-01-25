@@ -1,0 +1,10 @@
+.metadata
+.settings
+build/
+.classpath
+.project
+/bin/
+.DS_Store
+target/
+.factorypath
+*.mp4
